@@ -71,4 +71,4 @@ Live Demo: https://portfolio-theta-orpin-11.vercel.app/
 
 - GitHub: https://github.com/shreyasharma27290-art
 - Portfolio: https://portfolio-theta-orpin-11.vercel.app/
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn:www.linkedin.com/in/shriya-sharma-4a6b76374
