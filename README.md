@@ -1,6 +1,10 @@
 Hi, I'm Shriya Sharma 👋
+
+
 🎓 B.Tech IT Student | 3rd Year
+
 💻 Full Stack AI/GenAI Developer in Progress
+
 🚀 Building AI-powered career tools and responsive web applications
 
 About Me
