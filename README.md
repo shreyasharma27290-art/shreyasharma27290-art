@@ -68,7 +68,7 @@ A career-tech frontend prototype with ATS resume analyzer UI, career roadmap gen
 
 A responsive personal portfolio website showcasing my skills, AI/GenAI learning journey, featured projects, and contact links.
 
-- Live Demo: https://portfolio-website-five-blond-96.vercel.app/
+- Live Demo: https://portfolio-website-five-wine-66.vercel.app/
 - GitHub Repo: https://github.com/shreyasharma27290-art/portfolio-website
 
 ---
