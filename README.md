@@ -103,6 +103,6 @@ A responsive food landing page for a pizza business with menu cards, deals, comb
 
 ## Connect With Me
 
-- Portfolio: https://portfolio-website-five-blond-96.vercel.app/
+- Portfolio: https://portfolio-website-five-wine-66.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/shriya-sharma-4a6b76374
 - Email: shreya.sharma27290@gmail.com
