@@ -68,7 +68,7 @@ A career-tech frontend prototype with ATS resume analyzer UI, career roadmap gen
 
 A responsive personal portfolio website showcasing my skills, AI/GenAI learning journey, featured projects, and contact links.
 
-- Live Demo: portfolio-liard-one-85.vercel.app
+- Live Demo: https://portfolio-liard-one-85.vercel.app
 - GitHub Repo: https://github.com/shreyasharma27290-art/portfolio-website
 
 ---
