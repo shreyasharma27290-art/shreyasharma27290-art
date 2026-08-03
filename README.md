@@ -68,7 +68,7 @@ A career-tech frontend prototype with ATS resume analyzer UI, career roadmap gen
 
 A responsive personal portfolio website showcasing my skills, AI/GenAI learning journey, featured projects, and contact links.
 
-- Live Demo: https://portfolio-website-five-wine-66.vercel.app/
+- Live Demo: portfolio-liard-one-85.vercel.app
 - GitHub Repo: https://github.com/shreyasharma27290-art/portfolio-website
 
 ---
@@ -103,6 +103,6 @@ A responsive food landing page for a pizza business with menu cards, deals, comb
 
 ## Connect With Me
 
-- Portfolio: https://portfolio-website-five-wine-66.vercel.app/
+- Portfolio: portfolio-liard-one-85.vercel.app
 - LinkedIn: https://www.linkedin.com/in/shriya-sharma-4a6b76374
 - Email: shreya.sharma27290@gmail.com
